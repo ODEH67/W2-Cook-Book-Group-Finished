@@ -71,6 +71,7 @@ input.text{
 }
 
 .submit{
+    width: -moz-fit-content;
     width: fit-content;
     padding: 0.5em;
     margin-left: 0.4em;
@@ -387,6 +388,7 @@ img.instergram:hover{
 
     .copy-rights{
         margin-left: 10em;
+        height: -moz-fit-content;
         height: fit-content;
         padding: 0 0 1em 0;
         justify-self: center;
